@@ -22,3 +22,5 @@ else:
         print("Team 2 tops the points table based on net run rate and wickets lost.")
     else:
         print("The teams are tied on net run rate and wickets lost.")
+
+        
