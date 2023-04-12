@@ -12,3 +12,6 @@ cap_ranks = input("Enter a list of CAP ranks, separated by commas: ").split(",")
 for name, admission_id, cap_rank in zip(names, admission_ids, cap_ranks):
     message = "Hi {},\n\nCongratulations...! You got selected for the next round of recruitment process. Please submit your academic credentials, including primary and secondary certificates. Your admission ID is {} and you will be eligible for the next round of interview with a CAP rank of {}. If you submit all the documents on time, the university might offer you a scholarship.\n\n".format(name.strip(), admission_id.strip(), cap_rank.strip())
     print(message)
+
+
+    
