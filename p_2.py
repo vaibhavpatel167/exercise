@@ -49,3 +49,5 @@ def check_message_length(message):
         return message
     else:
         return ' '.join(words[:30])
+
+        
