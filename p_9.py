@@ -12,3 +12,4 @@ print(sentence_set, '\n')
 # print the number of unique words
 num_unique = len(sentence_set)
 print("Number of unique words in the sentence:", num_unique, '\n')
+
