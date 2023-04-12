@@ -15,3 +15,4 @@ def calculate_circle_properties(radius):
 # example usage
 result = calculate_circle_properties(5)
 print(result)
+
