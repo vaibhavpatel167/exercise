@@ -33,3 +33,4 @@ print("Room Tariff: INR {:.2f}".format(room_tariff))
 print("GST on Food: CGST INR {:.2f}, SGST INR {:.2f}".format(cgst, sgst))
 print("Tip: INR {:.2f}".format(tip))
 print("Grand Total: INR {:.2f}".format(grand_total))
+
