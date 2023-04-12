@@ -14,3 +14,5 @@ elif wavelength >= 620 and wavelength <= 750:
     print("The color of the wavelength is Red.")
 else:
     print("The wavelength entered is outside of the visible spectrum.")
+
+
